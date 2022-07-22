@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CatsFriendsApp/static/css/main.221f8975.css",
+    "main.js": "/CatsFriendsApp/static/js/main.c8ef6957.js",
+    "static/js/787.69dc61f4.chunk.js": "/CatsFriendsApp/static/js/787.69dc61f4.chunk.js",
+    "static/media/SEGA.woff": "/CatsFriendsApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/CatsFriendsApp/index.html",
+    "main.221f8975.css.map": "/CatsFriendsApp/static/css/main.221f8975.css.map",
+    "main.c8ef6957.js.map": "/CatsFriendsApp/static/js/main.c8ef6957.js.map",
+    "787.69dc61f4.chunk.js.map": "/CatsFriendsApp/static/js/787.69dc61f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221f8975.css",
+    "static/js/main.c8ef6957.js"
+  ]
+}
